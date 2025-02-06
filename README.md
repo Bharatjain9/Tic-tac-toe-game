@@ -10,3 +10,18 @@ Features
 ✔️ Easy to play
 ✔️ Two-player mode
 ✔️ Detects wins and draws automatically
+
+ 🚀 How to Clone and Run  
+
+### 1️⃣ Clone the Repository : 
+Open your terminal and run:  ```bash
+git clone <https://github.com/Bharatjain9/Tic-tac-toe-game.git>
+
+2️⃣ Navigate to the Project Folder :
+cd tic-tac-toe
+
+3️⃣ Compile the Code :
+g++ tic_tac_toe.cpp -o tic_tac_toe
+
+4️⃣ Run the Game :
+./tic_tac_toe
