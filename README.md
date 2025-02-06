@@ -14,7 +14,7 @@ Features
 ## 🚀 How to Clone This Repository  
 
 
-1️⃣ Open Your Terminal  
+###1️⃣ Open Your Terminal  
 On **Windows**, use Command Prompt, PowerShell, or Git Bash.  
 On **Mac/Linux**, use the Terminal.  
 
