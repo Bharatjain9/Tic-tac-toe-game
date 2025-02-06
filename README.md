@@ -16,7 +16,7 @@ Features
 
 1️⃣ Where to Run the Command:
 Windows: Command Prompt (cmd), PowerShell, Git Bash
-Mac/Linux: Terminal
+ Mac/Linux: Terminal
 
 2️⃣ Run The Clone Command  : git clone https://github.com/Bharatjain9/Tic-tac-toe-game.git
 
