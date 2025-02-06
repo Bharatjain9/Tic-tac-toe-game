@@ -11,7 +11,7 @@ Features
 ✔️ Two-player mode
 ✔️ Detects wins and draws automatically
 
- 🚀 How to Clone and Run  
+🚀 How to Clone and Run  
 
 ### 1️⃣ Clone the Repository : 
 Open your terminal and run:  ```bash
