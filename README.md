@@ -16,7 +16,7 @@ Features
 ### 1️⃣ Clone the Repository : 
 Open your terminal and run:  git clone <https://github.com/Bharatjain9/Tic-tac-toe-game.git>
 
-2️⃣ **Navigate to the Project Folder **:
+2️⃣ Navigate to the Project Folder : 
 cd tic-tac-toe
 
 3️⃣ Compile the Code :
