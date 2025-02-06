@@ -18,7 +18,7 @@ Features
 On **Windows**, use Command Prompt, PowerShell, or Git Bash.  
 On **Mac/Linux**, use the Terminal.  
 
-### 2️⃣ Run the Clone Command  : git clone <repo-link>
+2️⃣ Run The Clone Command  : git clone <repo-link>
 Replace <repo-link> with the actual GitHub repository URL.
 
 3️⃣ Navigate to the Project Folder : cd <repo-name>
@@ -30,4 +30,5 @@ If the project requires dependencies, install them based on the technology used:
 Python: pip install -r requirements.txt
 Node.js: npm install
 C/C++: No dependencies needed, just compile and run!
+
 5️⃣ Run the Project 🚀
