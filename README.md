@@ -14,8 +14,7 @@ Features
 🚀 How to Clone and Run  
 
 ### 1️⃣ Clone the Repository : 
-Open your terminal and run:  ```bash
-git clone <https://github.com/Bharatjain9/Tic-tac-toe-game.git>
+Open your terminal and run:  git clone <https://github.com/Bharatjain9/Tic-tac-toe-game.git>
 
 2️⃣ Navigate to the Project Folder :
 cd tic-tac-toe
