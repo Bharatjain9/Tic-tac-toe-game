@@ -23,12 +23,8 @@ Windows: Command Prompt (cmd), PowerShell, Git Bash
 3️⃣ Navigate to the Project Folder : cd tic-tac-toe
 and compile the code use g++ to compile the program :  g++ tic_tac_toe.cpp -o tic_tac_toe
 
-4️⃣ (Optional) Install Dependencies
-If the project requires dependencies, install them based on the technology used:
-
-Python: pip install -r requirements.txt
-Node.js: npm install
-C/C++: No dependencies needed, just compile and run!
+4️⃣ Install Dependencies (Optional) 
+If the project requires dependencies, install them based on the technology you used
 
 5️⃣  Run theProject 🚀 : ./tic_tac_toe
 
